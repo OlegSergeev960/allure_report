@@ -18,4 +18,4 @@ def valid_credentials():
 
 @pytest.fixture
 def invalid_credentials():
-    return 'tomsmit', 'SuperSecretPassword!'
+    return 'tomsmit', 'SuperSecretPassword'
