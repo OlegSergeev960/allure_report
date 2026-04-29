@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Успешная авторизация","887","Вход с помощью валидных логина и пароля","tests","2026-04-29","passed","2026-04-29","","test_example","",""
+"Неуспешная авторизация","792","Вход с помощью невалидных логина и пароля","tests","2026-04-29","passed","2026-04-29","","test_example","",""

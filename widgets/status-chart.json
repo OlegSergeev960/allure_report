@@ -1,0 +1,1 @@
+[{"uid":"9fa3cf44d60bc421","name":"Вход с помощью валидных логина и пароля","time":{"start":1777478059832,"stop":1777478060719,"duration":887},"status":"passed","severity":"normal"},{"uid":"32ff2897c6546d00","name":"Вход с помощью невалидных логина и пароля","time":{"start":1777478061056,"stop":1777478061848,"duration":792},"status":"passed","severity":"normal"}]
